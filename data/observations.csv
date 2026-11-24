@@ -1,0 +1,7 @@
+practice_id,step,observed_result,observer,observed_at
+P01,clean,complete,O1,2026-10-03T09:10:00
+P01,place_paper,complete,O1,2026-10-03T09:12:00
+P01,ink,partial,O1,2026-10-03T09:16:00
+P02,clean,not_observed,O2,2026-10-03T09:11:00
+P03,press,assisted,O2,2026-10-03T09:19:00
+P04,ink,complete,O1,2026-10-17T09:16:00

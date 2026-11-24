@@ -1,0 +1,47 @@
+{
+  "tables": [
+    {
+      "file": "practice.csv",
+      "columns": [
+        "practice_id",
+        "session_id",
+        "person_token",
+        "block_token",
+        "guide_token"
+      ],
+      "key": "practice_id"
+    },
+    {
+      "file": "observations.csv",
+      "columns": [
+        "practice_id",
+        "step",
+        "observed_result",
+        "observer",
+        "observed_at"
+      ]
+    },
+    {
+      "file": "materials.csv",
+      "columns": [
+        "block_token",
+        "plate_token",
+        "paper_lot",
+        "condition",
+        "valid_from",
+        "valid_to"
+      ]
+    },
+    {
+      "file": "rubrics.csv",
+      "columns": [
+        "rubric_version",
+        "criterion",
+        "step",
+        "score_label",
+        "valid_from",
+        "valid_to"
+      ]
+    }
+  ]
+}

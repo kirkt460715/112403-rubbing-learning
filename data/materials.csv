@@ -1,0 +1,5 @@
+block_token,plate_token,paper_lot,condition,valid_from,valid_to
+B1,PL1,P01,good,2026-09-01,2026-10-05
+B1,PL1,P02,review,2026-10-06,
+B2,PL2,P01,worn,2026-09-01,
+B3,PL3,P03,good,2026-10-01,

@@ -1,0 +1,5 @@
+rubric_version,criterion,step,score_label,valid_from,valid_to
+R1,pressure,press,steady,2026-09-01,2026-10-10
+R1,pressure,press,uneven,2026-09-01,2026-10-10
+R2,ink_coverage,ink,even,2026-10-11,
+R2,ink_coverage,ink,patchy,2026-10-11,
