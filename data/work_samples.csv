@@ -1,0 +1,6 @@
+sample_id,practice_id,rubric_version,criterion,score_label
+W01,P01,R1,pressure,steady
+W02,P02,R1,pressure,uneven
+W03,P03,R1,pressure,steady
+W04,P04,R2,ink_coverage,even
+W05,P05,R2,ink_coverage,patchy

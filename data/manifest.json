@@ -22,6 +22,17 @@
       ]
     },
     {
+      "file": "work_samples.csv",
+      "columns": [
+        "sample_id",
+        "practice_id",
+        "rubric_version",
+        "criterion",
+        "score_label"
+      ],
+      "key": "sample_id"
+    },
+    {
       "file": "materials.csv",
       "columns": [
         "block_token",
