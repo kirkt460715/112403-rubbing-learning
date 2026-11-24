@@ -12,6 +12,15 @@
       "key": "practice_id"
     },
     {
+      "file": "sessions.csv",
+      "columns": [
+        "session_id",
+        "practice_date",
+        "venue_token"
+      ],
+      "key": "session_id"
+    },
+    {
       "file": "observations.csv",
       "columns": [
         "practice_id",
